@@ -1,2 +1,3 @@
 # Underground-Cable-fault-detector
 My main objective is to determine the distance of underground cable faults from the base station in  kilometres. I will make a prototype (a model) that makes it easy to determine the location of faults in  underground power lines. 
+Here in this project, I used OHM’s Law which is R = 𝑉/𝐼 to detect the underground fault in which each cable is taken as a combination of four resistors. I also used three relays to show three different lanes of the cables. An LCD was used for displaying the fault. I have done the short circuit part of the circuit. This can also be done by using the open circuit concept.
